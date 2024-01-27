@@ -1,0 +1,16 @@
+.contact-container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-top: 50px;
+
+    .contact-text{
+        font-family: 'WorkSans Regular';
+        font-size: clamp(1rem, 2vw, 2rem);
+        color: white; 
+        animation: fadeIn 3s both;
+    }
+  }
+  
