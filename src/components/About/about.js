@@ -7,8 +7,7 @@ function About() {
         Hello, I'm Andrew. <br/> <br/>
         A Software Engineer based in Melbourne.<br/> <br/>
         Currently pursuing a Master's in the field.<br/> <br/>
-        My Skills are in Python, Java, JavaScript and SQL  <br/> <br/>
-        All-round good guy.
+        My Skills are in Data Analysis, Fintech and Front-end  <br/> <br/>
 
         </div>
     </div>

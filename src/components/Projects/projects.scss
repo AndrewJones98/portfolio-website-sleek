@@ -8,9 +8,20 @@
 
     .project-text{
         font-family: 'WorkSans Regular';
-        font-size: clamp(1rem, 2vw, 2rem);
+        font-size: clamp(1rem, 1vw, 1.5rem);
         color: white; 
         animation: fadeIn 3s both;
+    }
+
+    .github-logo {
+        padding: 0;
+        list-style: none;
+        text-align: center;
+        margin: 0;
+
+        a {
+            font-size: 3vw;
+        }
     }
   }
   
